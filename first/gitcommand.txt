@@ -1,0 +1,6 @@
+git init
+git commit -m "comment"
+git remote add origin https://github.com/rishabh-var123/terraformnew.git
+git remote -v
+git remote set-url origin https://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@github.com/rishabh-var123/terraformnew.git     
+git push -u origin master
